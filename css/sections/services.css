@@ -1,0 +1,19 @@
+.service {
+   margin-top: 135px;
+}
+.service__content {}
+
+.service__main-text {
+   max-width: 507px;
+}
+
+.service__list {
+   margin-top: 54px;
+   display: flex;
+}
+
+.service__item {}
+
+.service__title {}
+
+.service__text {}
